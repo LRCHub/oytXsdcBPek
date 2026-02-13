@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BEEP",
+  "base_artist": "izna",
+  "createdAt": "2026-02-13T08:31:46.883918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beep Me 911",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/01_Beep_Me_911_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beep Me 911 (feat. 702 & Magoo)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/02_Beep_Me_911_(feat._702_&_Magoo)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beep",
+      "artist": "Ant Clemons",
+      "has_synced": true,
+      "path": "select/03_Beep_Ant_Clemons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beep! Freestyle",
+      "artist": "KA$HDAMI",
+      "has_synced": true,
+      "path": "select/04_Beep!_Freestyle_KA$HDAMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beep Beep",
+      "artist": "Punks Jump Up",
+      "has_synced": false,
+      "path": "select/05_Beep_Beep_Punks_Jump_Up.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beep It",
+      "artist": "Cornelius",
+      "has_synced": true,
+      "path": "select/06_Beep_It_Cornelius.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beep Beep",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/07_Beep_Beep_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beep Beep Beep",
+      "artist": "Tiga",
+      "has_synced": true,
+      "path": "select/08_Beep_Beep_Beep_Tiga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beep",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/09_Beep_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beep",
+      "artist": "The Pussycat Dolls feat. will.i.am",
+      "has_synced": true,
+      "path": "select/10_Beep_The_Pussycat_Dolls_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beep",
+      "artist": "The Pussycat Dolls, will.i.am",
+      "has_synced": true,
+      "path": "select/11_Beep_The_Pussycat_Dolls,_will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BEEP",
+      "artist": "SennaRin",
+      "has_synced": true,
+      "path": "select/12_BEEP_SennaRin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beep",
+      "artist": "Pussycat Dolls feat. will.i.am",
+      "has_synced": true,
+      "path": "select/13_Beep_Pussycat_Dolls_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beep Beep - Original Mix",
+      "artist": "The Playmates",
+      "has_synced": false,
+      "path": "select/14_Beep_Beep_-_Original_Mix_The_Playmates.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEEP",
+      "artist": "izna",
+      "has_synced": false,
+      "path": "select/pl_01_BEEP_izna.txt"
+    }
+  ]
+}
